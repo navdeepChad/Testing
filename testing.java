@@ -1,3 +1,3 @@
 public class testing {
-    //hello world this is a conflict testing branch
+    //HELLO WORLD this is a conflict testing branch
 }
